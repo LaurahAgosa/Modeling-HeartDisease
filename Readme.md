@@ -1,4 +1,4 @@
-# Heart Disease Risk Prediction Project
+# MODELING HEART DISEASE
 
 ## Project Overview
 This project aims to develop a predictive model for heart disease using a dataset containing 14 clinical and demographic attributes, such as age, cholesterol levels, blood pressure, chest pain type, and ECG results. The dataset was sourced from the UCI Machine Learning Repository. Through Exploratory Data Analysis (EDA), patterns and relationships within the data were explored. Multiple machine learning models were trained and evaluated to identify the most reliable model for predicting heart disease risk. Logistic Regression was selected as the final model due to its high accuracy and interpretability.
